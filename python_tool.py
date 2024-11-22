@@ -1,7 +1,3 @@
-"""
-author: lmp-decaderan
-email: ldecaderan@gmail.com
-"""
 import argparse
 
 import ast
